@@ -7,8 +7,7 @@ let package = Package(
     name: "CoreMLPipelines",
     platforms: [.iOS(.v18), .macOS(.v15)],
     products: [
-        .library(name: "CoreMLPipelines", targets: ["CoreMLPipelines"]),
-        .executable(name: "coremlpipelines-cli", targets: ["CoreMLPipelinesCLI"]),
+        .library(name: "CoreMLPipelines", targets: ["CoreMLPipelines"])
     ],
     dependencies: [
         .package(url: "https://github.com/huggingface/swift-transformers.git", branch: "main")
