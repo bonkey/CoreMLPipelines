@@ -1,5 +1,5 @@
 {
-  "originHash" : "5988c2107fb0af975cd693ef725a0755f96c60d188153788f45ac86659829e9c",
+  "originHash" : "06d401844278ab4f686f8c32d89a83dbc3671f0bfab4d672e8dc2f84e0934d9e",
   "pins" : [
     {
       "identity" : "jinja",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-argument-parser.git",
       "state" : {
-        "revision" : "41982a3656a71c768319979febd796c6fd111d5c",
-        "version" : "1.5.0"
+        "revision" : "0fbc8848e389af3bb55c182bc19ca9d5dc2f255b",
+        "version" : "1.4.0"
       }
     },
     {
@@ -34,16 +34,7 @@
       "location" : "https://github.com/huggingface/swift-transformers.git",
       "state" : {
         "branch" : "main",
-        "revision" : "9062cac4924c7930558a0e88cf0c5e3f5adb5b49"
-      }
-    },
-    {
-      "identity" : "swifttui",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/finnvoor/SwiftTUI.git",
-      "state" : {
-        "branch" : "main",
-        "revision" : "7f5581eb7ef8e658f8a2889942a440c578ba72a8"
+        "revision" : "1d26ce0b7706b2492421079849e244f626abd944"
       }
     }
   ],
